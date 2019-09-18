@@ -4,11 +4,12 @@ body, html {
 
 .text {
   font-family: sans-serif;
-  text-align: right;
-  position: absolute;
-  top: 8%;
-  left: 60%;
+  text-align: center;
   color: black;
+}
+
+.main {
+  text-align: center;
 }
 
 img {

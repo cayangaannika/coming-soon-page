@@ -3,20 +3,22 @@ body, html {
 }
 
 .text {
-  font-family: sans-serif;
   text-align: left;
   color: black;
 }
 
 .main {
   text-align: left;
-  font-family: sans-serif;
 }
 
 img {
     max-width:100%;
     height: auto;
     background-size: cover;
+}
+
+h1 {
+  font-family: 'Mansalva', cursive;
 }
 
 @media only screen  and (min-width : 1224px) {
